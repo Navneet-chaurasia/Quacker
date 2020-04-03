@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\Blogsar_flutter_app\\x_group\\build\\multi_image_picker\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-watch-v20\\values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\5ad71b1970b3999aa8449b0f3cee4a8c\\appcompat-1.0.0\\res\\values-watch-v20\\values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\Blogsar_flutter_app\\x_group\\build\\multi_image_picker\\intermediates\\res\\merged\\release\\values-watch-v20\\values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\5ad71b1970b3999aa8449b0f3cee4a8c\\appcompat-1.0.0\\res\\values-watch-v20\\values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        }
+    ]
+}

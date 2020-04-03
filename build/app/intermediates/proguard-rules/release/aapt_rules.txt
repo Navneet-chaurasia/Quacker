@@ -1,0 +1,160 @@
+# Referenced at E:\Blogsar_flutter_app\x_group\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:25
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at E:\Blogsar_flutter_app\x_group\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:30
+-keep class com.example.x_group.MainActivity { <init>(); }
+# Referenced at E:\Blogsar_flutter_app\x_group\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:142
+-keep class com.google.android.gms.auth.api.signin.RevocationBoundService { <init>(); }
+# Referenced at E:\Blogsar_flutter_app\x_group\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:133
+-keep class com.google.android.gms.auth.api.signin.internal.SignInHubActivity { <init>(); }
+# Referenced at E:\Blogsar_flutter_app\x_group\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:167
+-keep class com.google.android.gms.common.api.GoogleApiActivity { <init>(); }
+# Referenced at E:\Blogsar_flutter_app\x_group\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:109
+-keep class com.google.firebase.auth.internal.FederatedSignInActivity { <init>(); }
+# Referenced at E:\Blogsar_flutter_app\x_group\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:76
+-keep class com.google.firebase.components.ComponentDiscoveryService { <init>(); }
+# Referenced at E:\Blogsar_flutter_app\x_group\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:158
+-keep class com.google.firebase.iid.FirebaseInstanceIdReceiver { <init>(); }
+# Referenced at E:\Blogsar_flutter_app\x_group\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:150
+-keep class com.google.firebase.messaging.FirebaseMessagingService { <init>(); }
+# Referenced at E:\Blogsar_flutter_app\x_group\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:172
+-keep class com.google.firebase.provider.FirebaseInitProvider { <init>(); }
+# Referenced at E:\Blogsar_flutter_app\x_group\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:55
+-keep class com.sangcomz.fishbun.FishBunFileProvider { <init>(); }
+# Referenced at E:\Blogsar_flutter_app\x_group\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:65
+-keep class com.sangcomz.fishbun.ui.album.AlbumActivity { <init>(); }
+# Referenced at E:\Blogsar_flutter_app\x_group\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:72
+-keep class com.sangcomz.fishbun.ui.detail.DetailActivity { <init>(); }
+# Referenced at E:\Blogsar_flutter_app\x_group\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:69
+-keep class com.sangcomz.fishbun.ui.picker.PickerActivity { <init>(); }
+# Referenced at E:\Blogsar_flutter_app\x_group\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:25
+-keep class io.flutter.app.FlutterApplication { <init>(); }
+# Referenced at E:\Blogsar_flutter_app\x_group\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:127
+-keep class io.flutter.plugins.firebasemessaging.FlutterFirebaseMessagingService { <init>(); }
+# Referenced at E:\Blogsar_flutter_app\x_group\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:117
+-keep class io.flutter.plugins.imagepicker.ImagePickerFileProvider { <init>(); }
+# Referenced at C:\Users\HP\.gradle\caches\transforms-2\files-2.1\5ad71b1970b3999aa8449b0f3cee4a8c\appcompat-1.0.0\res\layout\abc_alert_dialog_title_material.xml:56
+# Referenced at C:\Users\HP\.gradle\caches\transforms-2\files-2.1\5ad71b1970b3999aa8449b0f3cee4a8c\appcompat-1.0.0\res\layout\abc_alert_dialog_material.xml:52
+# Referenced at C:\Users\HP\.gradle\caches\transforms-2\files-2.1\5ad71b1970b3999aa8449b0f3cee4a8c\appcompat-1.0.0\res\layout\abc_alert_dialog_button_bar_material.xml:43
+-keep class android.widget.Space { <init>(...); }
+
+# Referenced at C:\Users\HP\.gradle\caches\transforms-2\files-2.1\5ad71b1970b3999aa8449b0f3cee4a8c\appcompat-1.0.0\res\layout\abc_select_dialog_material.xml:23
+-keep class androidx.appcompat.app.AlertController$RecycleListView { <init>(...); }
+
+# Referenced at C:\Users\HP\.gradle\caches\transforms-2\files-2.1\5ad71b1970b3999aa8449b0f3cee4a8c\appcompat-1.0.0\res\layout\abc_action_menu_item_layout.xml:17
+-keep class androidx.appcompat.view.menu.ActionMenuItemView { <init>(...); }
+
+# Referenced at C:\Users\HP\.gradle\caches\transforms-2\files-2.1\5ad71b1970b3999aa8449b0f3cee4a8c\appcompat-1.0.0\res\layout\abc_expanded_menu_layout.xml:17
+-keep class androidx.appcompat.view.menu.ExpandedMenuView { <init>(...); }
+
+# Referenced at C:\Users\HP\.gradle\caches\transforms-2\files-2.1\5ad71b1970b3999aa8449b0f3cee4a8c\appcompat-1.0.0\res\layout\abc_popup_menu_item_layout.xml:17
+# Referenced at C:\Users\HP\.gradle\caches\transforms-2\files-2.1\5ad71b1970b3999aa8449b0f3cee4a8c\appcompat-1.0.0\res\layout\abc_list_menu_item_layout.xml:17
+# Referenced at C:\Users\HP\.gradle\caches\transforms-2\files-2.1\5ad71b1970b3999aa8449b0f3cee4a8c\appcompat-1.0.0\res\layout\abc_cascading_menu_item_layout.xml:20
+-keep class androidx.appcompat.view.menu.ListMenuItemView { <init>(...); }
+
+# Referenced at C:\Users\HP\.gradle\caches\transforms-2\files-2.1\5ad71b1970b3999aa8449b0f3cee4a8c\appcompat-1.0.0\res\layout\abc_screen_toolbar.xml:27
+-keep class androidx.appcompat.widget.ActionBarContainer { <init>(...); }
+
+# Referenced at C:\Users\HP\.gradle\caches\transforms-2\files-2.1\5ad71b1970b3999aa8449b0f3cee4a8c\appcompat-1.0.0\res\layout\abc_screen_toolbar.xml:43
+# Referenced at C:\Users\HP\.gradle\caches\transforms-2\files-2.1\5ad71b1970b3999aa8449b0f3cee4a8c\appcompat-1.0.0\res\layout\abc_action_mode_bar.xml:19
+-keep class androidx.appcompat.widget.ActionBarContextView { <init>(...); }
+
+# Referenced at C:\Users\HP\.gradle\caches\transforms-2\files-2.1\5ad71b1970b3999aa8449b0f3cee4a8c\appcompat-1.0.0\res\layout\abc_screen_toolbar.xml:17
+-keep class androidx.appcompat.widget.ActionBarOverlayLayout { <init>(...); }
+
+# Referenced at C:\Users\HP\.gradle\caches\transforms-2\files-2.1\5ad71b1970b3999aa8449b0f3cee4a8c\appcompat-1.0.0\res\layout\abc_action_menu_layout.xml:17
+-keep class androidx.appcompat.widget.ActionMenuView { <init>(...); }
+
+# Referenced at C:\Users\HP\.gradle\caches\transforms-2\files-2.1\5ad71b1970b3999aa8449b0f3cee4a8c\appcompat-1.0.0\res\layout\abc_activity_chooser_view.xml:19
+-keep class androidx.appcompat.widget.ActivityChooserView$InnerLayout { <init>(...); }
+
+# Referenced at C:\Users\HP\.gradle\caches\transforms-2\files-2.1\5ad71b1970b3999aa8449b0f3cee4a8c\appcompat-1.0.0\res\layout\abc_alert_dialog_material.xml:18
+-keep class androidx.appcompat.widget.AlertDialogLayout { <init>(...); }
+
+# Referenced at C:\Users\HP\.gradle\caches\transforms-2\files-2.1\d8b2753a6830308b105987524a1eed9b\jetified-FishBun-0.11.2\res\layout\activity_detail_actiivy.xml:22
+-keep class androidx.appcompat.widget.AppCompatImageButton { <init>(...); }
+
+# Referenced at C:\Users\HP\.gradle\caches\transforms-2\files-2.1\5ad71b1970b3999aa8449b0f3cee4a8c\appcompat-1.0.0\res\layout\abc_alert_dialog_button_bar_material.xml:26
+-keep class androidx.appcompat.widget.ButtonBarLayout { <init>(...); }
+
+# Referenced at C:\Users\HP\.gradle\caches\transforms-2\files-2.1\5ad71b1970b3999aa8449b0f3cee4a8c\appcompat-1.0.0\res\layout\abc_screen_content_include.xml:19
+-keep class androidx.appcompat.widget.ContentFrameLayout { <init>(...); }
+
+# Referenced at C:\Users\HP\.gradle\caches\transforms-2\files-2.1\5ad71b1970b3999aa8449b0f3cee4a8c\appcompat-1.0.0\res\layout\abc_alert_dialog_title_material.xml:45
+-keep class androidx.appcompat.widget.DialogTitle { <init>(...); }
+
+# Referenced at C:\Users\HP\.gradle\caches\transforms-2\files-2.1\5ad71b1970b3999aa8449b0f3cee4a8c\appcompat-1.0.0\res\layout\abc_screen_simple_overlay_action_mode.xml:23
+-keep class androidx.appcompat.widget.FitWindowsFrameLayout { <init>(...); }
+
+# Referenced at C:\Users\HP\.gradle\caches\transforms-2\files-2.1\5ad71b1970b3999aa8449b0f3cee4a8c\appcompat-1.0.0\res\layout\abc_screen_simple.xml:17
+# Referenced at C:\Users\HP\.gradle\caches\transforms-2\files-2.1\5ad71b1970b3999aa8449b0f3cee4a8c\appcompat-1.0.0\res\layout\abc_dialog_title_material.xml:22
+-keep class androidx.appcompat.widget.FitWindowsLinearLayout { <init>(...); }
+
+# Referenced at C:\Users\HP\.gradle\caches\transforms-2\files-2.1\5ad71b1970b3999aa8449b0f3cee4a8c\appcompat-1.0.0\res\layout\abc_search_view.xml:75
+-keep class androidx.appcompat.widget.SearchView$SearchAutoComplete { <init>(...); }
+
+# Referenced at C:\Users\HP\.gradle\caches\transforms-2\files-2.1\5ad71b1970b3999aa8449b0f3cee4a8c\appcompat-1.0.0\res\layout-v26\abc_screen_toolbar.xml:37
+# Referenced at C:\Users\HP\.gradle\caches\transforms-2\files-2.1\d8b2753a6830308b105987524a1eed9b\jetified-FishBun-0.11.2\res\layout\activity_photo_picker.xml:19
+# Referenced at C:\Users\HP\.gradle\caches\transforms-2\files-2.1\d8b2753a6830308b105987524a1eed9b\jetified-FishBun-0.11.2\res\layout\activity_photo_album.xml:20
+# Referenced at C:\Users\HP\.gradle\caches\transforms-2\files-2.1\5ad71b1970b3999aa8449b0f3cee4a8c\appcompat-1.0.0\res\layout\abc_screen_toolbar.xml:36
+-keep class androidx.appcompat.widget.Toolbar { <init>(...); }
+
+# Referenced at C:\Users\HP\.gradle\caches\transforms-2\files-2.1\5ad71b1970b3999aa8449b0f3cee4a8c\appcompat-1.0.0\res\layout\abc_screen_simple_overlay_action_mode.xml:32
+# Referenced at C:\Users\HP\.gradle\caches\transforms-2\files-2.1\5ad71b1970b3999aa8449b0f3cee4a8c\appcompat-1.0.0\res\layout\abc_screen_simple.xml:25
+-keep class androidx.appcompat.widget.ViewStubCompat { <init>(...); }
+
+# Referenced at C:\Users\HP\.gradle\caches\transforms-2\files-2.1\d8b2753a6830308b105987524a1eed9b\jetified-FishBun-0.11.2\res\layout\detail_item.xml:2
+# Referenced at C:\Users\HP\.gradle\caches\transforms-2\files-2.1\d8b2753a6830308b105987524a1eed9b\jetified-FishBun-0.11.2\res\layout\activity_detail_actiivy.xml:2
+-keep class androidx.constraintlayout.widget.ConstraintLayout { <init>(...); }
+
+# Referenced at C:\Users\HP\.gradle\caches\transforms-2\files-2.1\cec32cd82a8a766b147872418afb7fcd\material-1.0.0\res\layout\design_bottom_sheet_dialog.xml:26
+# Referenced at C:\Users\HP\.gradle\caches\transforms-2\files-2.1\d8b2753a6830308b105987524a1eed9b\jetified-FishBun-0.11.2\res\layout\activity_photo_picker.xml:2
+# Referenced at C:\Users\HP\.gradle\caches\transforms-2\files-2.1\d8b2753a6830308b105987524a1eed9b\jetified-FishBun-0.11.2\res\layout\activity_photo_album.xml:2
+-keep class androidx.coordinatorlayout.widget.CoordinatorLayout { <init>(...); }
+
+# Referenced at C:\Users\HP\.gradle\caches\transforms-2\files-2.1\5ad71b1970b3999aa8449b0f3cee4a8c\appcompat-1.0.0\res\layout\abc_alert_dialog_material.xml:41
+-keep class androidx.core.widget.NestedScrollView { <init>(...); }
+
+# Referenced at C:\Users\HP\.gradle\caches\transforms-2\files-2.1\d8b2753a6830308b105987524a1eed9b\jetified-FishBun-0.11.2\res\layout\activity_photo_picker.xml:8
+# Referenced at C:\Users\HP\.gradle\caches\transforms-2\files-2.1\d8b2753a6830308b105987524a1eed9b\jetified-FishBun-0.11.2\res\layout\activity_photo_album.xml:9
+-keep class androidx.recyclerview.widget.RecyclerView { <init>(...); }
+
+# Referenced at C:\Users\HP\.gradle\caches\transforms-2\files-2.1\d8b2753a6830308b105987524a1eed9b\jetified-FishBun-0.11.2\res\layout\activity_detail_actiivy.xml:10
+-keep class androidx.viewpager.widget.ViewPager { <init>(...); }
+
+# Referenced at C:\Users\HP\.gradle\caches\transforms-2\files-2.1\d8b2753a6830308b105987524a1eed9b\jetified-FishBun-0.11.2\res\layout\activity_photo_picker.xml:14
+# Referenced at C:\Users\HP\.gradle\caches\transforms-2\files-2.1\d8b2753a6830308b105987524a1eed9b\jetified-FishBun-0.11.2\res\layout\activity_photo_album.xml:15
+-keep class com.google.android.material.appbar.AppBarLayout { <init>(...); }
+
+# Referenced at C:\Users\HP\.gradle\caches\transforms-2\files-2.1\cec32cd82a8a766b147872418afb7fcd\material-1.0.0\res\layout\design_bottom_navigation_item.xml:27
+-keep class com.google.android.material.internal.BaselineLayout { <init>(...); }
+
+# Referenced at C:\Users\HP\.gradle\caches\transforms-2\files-2.1\cec32cd82a8a766b147872418afb7fcd\material-1.0.0\res\layout\design_text_input_password_icon.xml:18
+-keep class com.google.android.material.internal.CheckableImageButton { <init>(...); }
+
+# Referenced at C:\Users\HP\.gradle\caches\transforms-2\files-2.1\cec32cd82a8a766b147872418afb7fcd\material-1.0.0\res\layout\design_navigation_item.xml:17
+-keep class com.google.android.material.internal.NavigationMenuItemView { <init>(...); }
+
+# Referenced at C:\Users\HP\.gradle\caches\transforms-2\files-2.1\cec32cd82a8a766b147872418afb7fcd\material-1.0.0\res\layout\design_navigation_menu.xml:17
+-keep class com.google.android.material.internal.NavigationMenuView { <init>(...); }
+
+# Referenced at C:\Users\HP\.gradle\caches\transforms-2\files-2.1\cec32cd82a8a766b147872418afb7fcd\material-1.0.0\res\layout\mtrl_layout_snackbar.xml:18
+# Referenced at C:\Users\HP\.gradle\caches\transforms-2\files-2.1\cec32cd82a8a766b147872418afb7fcd\material-1.0.0\res\layout\design_layout_snackbar.xml:18
+-keep class com.google.android.material.snackbar.Snackbar$SnackbarLayout { <init>(...); }
+
+# Referenced at C:\Users\HP\.gradle\caches\transforms-2\files-2.1\cec32cd82a8a766b147872418afb7fcd\material-1.0.0\res\layout\mtrl_layout_snackbar_include.xml:18
+# Referenced at C:\Users\HP\.gradle\caches\transforms-2\files-2.1\cec32cd82a8a766b147872418afb7fcd\material-1.0.0\res\layout\design_layout_snackbar_include.xml:18
+-keep class com.google.android.material.snackbar.SnackbarContentLayout { <init>(...); }
+
+# Referenced at C:\Users\HP\.gradle\caches\transforms-2\files-2.1\d8b2753a6830308b105987524a1eed9b\jetified-FishBun-0.11.2\res\layout\thumb_item.xml:24
+# Referenced at C:\Users\HP\.gradle\caches\transforms-2\files-2.1\d8b2753a6830308b105987524a1eed9b\jetified-FishBun-0.11.2\res\layout\activity_detail_actiivy.xml:33
+-keep class com.sangcomz.fishbun.util.RadioWithTextButton { <init>(...); }
+
+# Referenced at C:\Users\HP\.gradle\caches\transforms-2\files-2.1\d8b2753a6830308b105987524a1eed9b\jetified-FishBun-0.11.2\res\layout\thumb_item.xml:2
+-keep class com.sangcomz.fishbun.util.SquareFrameLayout { <init>(...); }
+
+# Referenced at C:\Users\HP\.gradle\caches\transforms-2\files-2.1\d8b2753a6830308b105987524a1eed9b\jetified-FishBun-0.11.2\res\layout\album_item.xml:9
+-keep class com.sangcomz.fishbun.util.SquareImageView { <init>(...); }
+
+# Referenced at C:\Users\HP\.gradle\caches\transforms-2\files-2.1\d8b2753a6830308b105987524a1eed9b\jetified-FishBun-0.11.2\res\layout\detail_item.xml:8
+-keep class com.sangcomz.fishbun.util.TouchImageView { <init>(...); }
+

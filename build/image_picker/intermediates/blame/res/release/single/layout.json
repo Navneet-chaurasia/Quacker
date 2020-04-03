@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "E:\\Blogsar_flutter_app\\x_group\\build\\image_picker\\intermediates\\res\\merged\\release\\layout\\notification_action.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\f88aa5f8f2c375cd87c7092eb7d6c8a4\\core-1.0.2\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\Blogsar_flutter_app\\x_group\\build\\image_picker\\intermediates\\res\\merged\\release\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\f88aa5f8f2c375cd87c7092eb7d6c8a4\\core-1.0.2\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\Blogsar_flutter_app\\x_group\\build\\image_picker\\intermediates\\res\\merged\\release\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\f88aa5f8f2c375cd87c7092eb7d6c8a4\\core-1.0.2\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "E:\\Blogsar_flutter_app\\x_group\\build\\image_picker\\intermediates\\res\\merged\\release\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\f88aa5f8f2c375cd87c7092eb7d6c8a4\\core-1.0.2\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\Blogsar_flutter_app\\x_group\\build\\image_picker\\intermediates\\res\\merged\\release\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\f88aa5f8f2c375cd87c7092eb7d6c8a4\\core-1.0.2\\res\\layout\\notification_template_part_time.xml"
+    }
+]

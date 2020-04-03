@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\Blogsar_flutter_app\\x_group\\build\\flutter_plugin_android_lifecycle\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-ka\\values-ka.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\df6cf23cc51da578d8b158de17d0c9cb\\core-1.0.0\\res\\values-ka\\values-ka.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\Blogsar_flutter_app\\x_group\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\release\\values-ka\\values-ka.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\df6cf23cc51da578d8b158de17d0c9cb\\core-1.0.0\\res\\values-ka\\values-ka.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}
